@@ -1,7 +1,7 @@
 
 # Java Complete Course 
 
-## 📌 Course Outline
+## Course Outline
 
 1. Introduction to Java  
 2. Basics of Java  
